@@ -1,16 +1,87 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Profile
 
-<!--
-**ServerMana/ServerMana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Languages
+  </br>
+  </br>
+  <a href="https://devdocs.io/html/">
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  </a>
+  <a href="https://devdocs.io/css/">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" alt="javascript"/>
+  </a>
+  <a href="http://python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://learn.microsoft.com/ko-kr/cpp/c-language/?view=msvc-170/">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  </a>
+  <a href="https://docs.microsoft.com/ko-kr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
+  </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"/>
+  </a>
+      <a href="https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd">
+    <img src="https://img.shields.io/badge/windowsterminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="windowsterminal"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-![ServerMana's github stats](https://github-readme-stats.vercel.app/api?username=ServerMana&show_icons=true)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+<p align="center">
+Operating System
+  
+---
+<p align="center">
+Windows Servers
+  </br>
+  </br>
+    <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows Server 2012-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2012"/>
+  </a>
+    <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows Server 2012R2-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2012R2"/>
+  </a>  
+    <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows Server 2016-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2016"/>
+  </a>  
+    <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows Server 2019-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2019"/>
+  </a>  
+    <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows Server 2022-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2022"/>
+  </a>
+  
+  ---
+
+<p align="center">
+Linux
+  </br>
+  </br>
+    <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" alt="Debian"/>
+  </a>
+  
+  ---
+
+<p align="center">
+Programs
+  </br>
+  </br>
+    <a href="https://www.vmware.com">
+    <img src="https://img.shields.io/badge/Vmware WorkStation-607078?style=for-the-badge&logo=Vmware&logoColor=white" alt="Vmware WorkStation-"/>
+       <a href="https://www.vmware.com">
+    <img src="https://img.shields.io/badge/Cisco Packet Tracer-1BA0D7?style=for-the-badge&logo=Debian&logoColor=white" alt="Cisco Packet Tracer"/>
+  </a>  <a href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode"/>
+  </a>
+  <a href="https://visualstudio.com">
+    <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualStudio"/>
+  </a>
+    <a href="https://visualstudio.com">
+    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="eclipseide"/>
+  </a>
