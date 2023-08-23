@@ -1,5 +1,12 @@
 ## 👋 Hello! Welcome to my Profile
 
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ServerMana's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="ServerMana's Github"/>
+</div>
+
+
 <p align="center">
   Languages
   </br>
@@ -27,6 +34,9 @@
   </a>
       <a href="https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd">
     <img src="https://img.shields.io/badge/windowsterminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="windowsterminal"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white" alt="java"/>
   </a>
 </p>
 
@@ -75,7 +85,7 @@ Programs
     <a href="https://www.vmware.com">
     <img src="https://img.shields.io/badge/Vmware WorkStation-607078?style=for-the-badge&logo=Vmware&logoColor=white" alt="Vmware WorkStation-"/>
        <a href="https://www.vmware.com">
-    <img src="https://img.shields.io/badge/Cisco Packet Tracer-1BA0D7?style=for-the-badge&logo=Debian&logoColor=white" alt="Cisco Packet Tracer"/>
+    <img src="https://img.shields.io/badge/Cisco Packet Tracer-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Packet Tracer"/>
   </a>  <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode"/>
   </a>
