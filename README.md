@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ServerMana's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="ServerMana's Github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ServerMana's%20Github!&&fontSize=70" />
 </div>
 
 
