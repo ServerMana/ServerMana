@@ -29,7 +29,7 @@
   <a href="https://docs.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
   </a>
-    <a href="">
+    <a href="https://learn.microsoft.com/ko-kr/powershell/">
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"/>
   </a>
       <a href="https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd">
@@ -65,6 +65,9 @@ Windows Servers
     <a href="https://www.microsoft.com/windows-server">
     <img src="https://img.shields.io/badge/Windows Server 2022-0078D6?style=for-the-badge&logo=windows 10&logoColor=white" alt="Windows Server 2022"/>
   </a>
+      <a href="https://learn.microsoft.com/en-us/windows-server/administration/server-core/what-is-server-core">
+    <img src="https://img.shields.io/badge/Windows Server Core-4D4D4D?style=for-the-badge&logo=windows terminal&logoColor=white" alt="Windows Server Core"/>
+  </a>
   
   ---
 
@@ -75,7 +78,10 @@ Linux
     <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" alt="Debian"/>
   </a>
-  
+      <a href="https://ubuntu.com//">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
+  </a>
+
   ---
 
 <p align="center">
@@ -93,5 +99,14 @@ Programs
     <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualStudio"/>
   </a>
     <a href="https://visualstudio.com">
-    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="eclipseide"/>
+    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="eclipse"/>
   </a>
+
+---
+
+<p align="center">
+Database
+  </br>
+  </br>
+<a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-2C2255?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
